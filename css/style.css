@@ -1,0 +1,37 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  width: 10%;
+}
+
+td {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.button {
+  width: 15vw;
+  border: 1px solid darkgrey;
+  color: black;
+  padding: 0.5em 1em 0.5em 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.8rem;
+  margin: 0.4em;
+  cursor: pointer;
+}
+
+#participantNum {
+  width: 11vw;
+  margin: 0.4em;
+  padding: 0.5em 1em 0.5em 1em;
+}
+/*# sourceMappingURL=style.css.map */
